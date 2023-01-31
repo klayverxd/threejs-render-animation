@@ -1,0 +1,11 @@
+Model Information:
+* title:	Y Bot Gangnam
+* source:	https://sketchfab.com/3d-models/y-bot-gangnam-e5b94f9df5b347b28bbe560ca8f74764
+* author:	Juangamer (https://sketchfab.com/Juangamer)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Y Bot Gangnam" (https://sketchfab.com/3d-models/y-bot-gangnam-e5b94f9df5b347b28bbe560ca8f74764) by Juangamer (https://sketchfab.com/Juangamer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
